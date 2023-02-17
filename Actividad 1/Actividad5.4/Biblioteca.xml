@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="tablaBiblioteca.xsl" type="text/xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+        <numPaginas>150</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Principios de seguridad informatica para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+        <numPaginas>321</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Ejercicios complementarios de logica digital</titulo>
+        <autor>Alberto Sanchez</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPaginas>202</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>El camino del Gol</titulo>
+        <autor>DjMariio</autor>
+        <editor>Montena</editor>
+        <isbn>9788417460877</isbn>
+        <precio>10.00</precio>
+        <numPaginas>202</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Pan y Circo</titulo>
+        <autor>Yeyo Balbas</autor>
+        <editor>Roca</editor>
+        <isbn>9788499186184</isbn>
+        <precio>08.00</precio>
+        <numPaginas>480</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Pax Romana</titulo>
+        <autor>Yeyo Balbas</autor>
+        <editor>Roca</editor>
+        <isbn>9788499784794</isbn>
+        <precio>09.00</precio>
+        <numPaginas>420</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Assassin's Creed Heresy</titulo>
+        <autor>Christie Golden</autor>
+        <editor>Minotauro</editor>
+        <isbn>9788445012604</isbn>
+        <precio>12.50</precio>
+        <numPaginas>366</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Generacion Tangai</titulo>
+        <autor>Modesto Barragan</autor>
+        <editor>Alfar</editor>
+        <isbn>9788478989614</isbn>
+        <precio>10.50</precio>
+        <numPaginas>328</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>La Catedral del Mar</titulo>
+        <autor>Ildefonso Falcones</autor>
+        <editor>Debolsillo</editor>
+        <isbn>9788499088044</isbn>
+        <precio>10.50</precio>
+        <numPaginas>672</numPaginas>
+    </libro>
+
+    <libro>
+        <titulo>Los Herederos de la Tierra</titulo>
+        <autor>Ildefonso Falcones</autor>
+        <editor>Debolsillo</editor>
+        <isbn>9788425354236</isbn>
+        <precio>60.50</precio>
+        <numPaginas>896</numPaginas>
+    </libro>
+</libreria>
