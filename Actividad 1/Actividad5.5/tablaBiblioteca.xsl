@@ -6,30 +6,27 @@
             <h1>Mi biblioteca personal</h1>
             <table>
                 <tr bgcolor="33FFA8">
-                    <th>ISBN</th>
                     <th>Título</th>
                     <th>Autor</th>
                     <th>Precio</th>
+                    <th>ISBN</th>
                     <th>Numero Paginas</th>
-
                 </tr>
                 <xsl:for-each select="libreria/libro">
                     <tr>   
-                        <xsl:choose>
+                        <td><xsl:value-of select="titulo"/></td>
+                        <td><xsl:value-of select="autor"/></td>
+                        <td><xsl:value-of select="precio"/></td>
+                        <td><xsl:value-of select="isbn"/></td>
+                        <xsl:choose> 
                             <xsl:when test="numPaginas &gt; 150">
-                                <td><xsl:value-of select="isbn"/></td>
-                                <td><xsl:value-of select="titulo"/></td>
-                                <td><xsl:value-of select="autor"/></td>
-                                <td><xsl:value-of select="precio"/></td>
-                                <td bgcolor="#FF0000"><xsl:value-of select="numPaginas"/></td>
-                            </xsl:when> 
-                            <xsl:when test="numPaginas &lt; 150">
-                                <td><xsl:value-of select="isbn"/></td>
-                                <td><xsl:value-of select="titulo"/></td>
-                                <td><xsl:value-of select="autor"/></td>
-                                <td><xsl:value-of select="precio"/></td>
-                                <td bgcolor="#1BFF00"><xsl:value-of select="numPaginas"/></td>
-                            </xsl:when> 
+                                <xsl:apply-templates select="numPaginas"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <td>
+                                    <xsl:value-of select="numPaginas"/>
+                                </td>                                
+                            </xsl:otherwise>
                         </xsl:choose>
                     </tr> 
                 </xsl:for-each>
@@ -37,4 +34,9 @@
         </body>
     </html>
 </xsl:template>
+<xsl:template match="numPaginas">
+        <td bgcolor="FF0000">
+            <xsl:value-of select="."/>
+        </td>
+    </xsl:template>
 </xsl:stylesheet>
