@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="file.xsl" type="text/xsl"?>
+<?xml-stylesheet href="cd_p1.xsl" type="text/xsl"?>
 <CDs>
     <album>
         <titulo>The Off-Season</titulo>
         <artista>J. Cole</artista>
         <canciones>
-            <cancion duracion="3:17">9 5.s o u t h</cancion>
-            <cancion duracion="2:29">a m a r i</cancion>
-            <cancion duracion="3:39">m y.l i f e (ft.21Savage, Morray)</cancion>
-            <cancion duracion="2:58">a p p l y i n g.p r e s s</cancion>
-            <cancion duracion="2:44">1 0 0.m i l (ft. Bas)</cancion>
+            <cancion duracion="3:17">9 5.s o u t h </cancion>
+            <cancion duracion="2:29">a m a r i </cancion>
+            <cancion duracion="3:39">m y.l i f e (ft.21Savage, Morray) </cancion>
+            <cancion duracion="2:58">a p p l y i n g.p r e s s </cancion>
+            <cancion duracion="2:44">1 0 0.m i l (ft. Bas) </cancion>
         </canciones>
         <discografica>Dreamville, Inc.</discografica>
         <anoPublicacion>2021</anoPublicacion>
@@ -19,11 +19,11 @@
         <titulo>x100pre</titulo>
         <artista>Bad Bunny</artista>
         <canciones>
-            <cancion duracion="5:01">La Romana (ft. El Alfa)</cancion>
-            <cancion duracion="2:51">200mph (ft.Diplo)</cancion>
-            <cancion duracion="3:30">Mía (ft.Drake)</cancion>
-            <cancion duracion="3:51">Estamos Bien</cancion>
-            <cancion duracion="3:50">Caro</cancion>
+            <cancion duracion="5:01">La Romana (ft. El Alfa) </cancion>
+            <cancion duracion="2:51">200mph (ft.Diplo) </cancion>
+            <cancion duracion="3:30">Mía (ft.Drake) </cancion>
+            <cancion duracion="3:51">Estamos Bien </cancion>
+            <cancion duracion="3:50">Caro </cancion>
         </canciones>
         <discografica>Rimas Entertainment</discografica>
         <anoPublicacion>2018</anoPublicacion>
@@ -33,11 +33,11 @@
         <titulo>Microdosis</titulo>
         <artista>Mora</artista>
         <canciones>
-            <cancion duracion="3:12">badtrip :(</cancion>
-            <cancion duracion="2:19">Escalofríos</cancion>
-            <cancion duracion="3:40">QSY</cancion>
-            <cancion duracion="2:55">Robert de Niro</cancion>
-            <cancion duracion="2:38">Playa Privada (ft.Elena Rose)</cancion>
+            <cancion duracion="3:12">badtrip :( </cancion>
+            <cancion duracion="2:19">Escalofríos </cancion>
+            <cancion duracion="3:40">QSY </cancion>
+            <cancion duracion="2:55">Robert de Niro </cancion>
+            <cancion duracion="2:38">Playa Privada (ft.Elena Rose) </cancion>
         </canciones>
         <discografica>Rimas Entertainment</discografica>
         <anoPublicacion>2022</anoPublicacion>
@@ -47,11 +47,11 @@
         <titulo>Sen2 Kbrn vol. 2</titulo>
         <artista>Eladio Carrion</artista>
         <canciones>
-            <cancion duracion="2:28">Mbappe</cancion>
-            <cancion duracion="3:07">Gladiador</cancion>
-            <cancion duracion="2:36">Caras Vemos</cancion>
-            <cancion duracion="2:40">Te Dijeron</cancion>
-            <cancion duracion="2:59">Hugo</cancion>
+            <cancion duracion="2:28">Mbappe </cancion>
+            <cancion duracion="3:07">Gladiador </cancion>
+            <cancion duracion="2:36">Caras Vemos </cancion>
+            <cancion duracion="2:40">Te Dijeron </cancion>
+            <cancion duracion="2:59">Hugo </cancion>
         </canciones>
         <discografica>Rimas Entertainment</discografica>
         <anoPublicacion>2022</anoPublicacion>
@@ -61,11 +61,11 @@
         <titulo>Gargolas Forever</titulo>
         <artista>Alex Gargolas</artista>
         <canciones>
-            <cancion duracion="6:05">Las Gargolas (ft.Mora, Brray, Arcangel, Darrel, Luar la L)</cancion>
-            <cancion duracion="3:27">Promesa (ft.Eladio Carrion)</cancion>
-            <cancion duracion="2:22">Por la Ciudad (ft.Arcangel)</cancion>
-            <cancion duracion="3:34">Flashed (ft.Alex Rose)</cancion>
-            <cancion duracion="2:45">Prendemos (ft.Omy de Oro)</cancion>
+            <cancion duracion="6:05">Las Gargolas (ft.Mora, Brray, Arcangel, Darrel, Luar la L) </cancion>
+            <cancion duracion="3:27">Promesa (ft.Eladio Carrion) </cancion>
+            <cancion duracion="2:22">Por la Ciudad (ft.Arcangel) </cancion>
+            <cancion duracion="3:34">Flashed (ft.Alex Rose) </cancion>
+            <cancion duracion="2:45">Prendemos (ft.Omy de Oro) </cancion>
         </canciones>
         <discografica>Rimas Entertainment</discografica>
         <anoPublicacion>2021</anoPublicacion>
@@ -75,11 +75,11 @@
         <titulo>Sr. Santos</titulo>
         <artista>Arcangel</artista>
         <canciones>
-            <cancion duracion="3:05">La Ruta (ft.YOVNGCHIMI)</cancion>
-            <cancion duracion="4:58">Sin Scotti (ft.Jim Jones, Young Flow, Chucky 73, Dowba Montana)</cancion>
-            <cancion duracion="3:35">Papa Noel (ft.Eladio Carrion)</cancion>
-            <cancion duracion="4:16">La Jumpa (ft.Bad Bunny)</cancion>
-            <cancion duracion="3:29">Bottas (ft.Duki, Bizarrap)</cancion>
+            <cancion duracion="3:05">La Ruta (ft.YOVNGCHIMI) </cancion>
+            <cancion duracion="4:58">Sin Scotti (ft.Jim Jones, Young Flow, Chucky 73, Dowba Montana) </cancion>
+            <cancion duracion="3:35">Papa Noel (ft.Eladio Carrion) </cancion>
+            <cancion duracion="4:16">La Jumpa (ft.Bad Bunny) </cancion>
+            <cancion duracion="3:29">Bottas (ft.Duki, Bizarrap) </cancion>
         </canciones>
         <discografica>Rimas Entertainment</discografica>
         <anoPublicacion>2022</anoPublicacion>
@@ -89,11 +89,11 @@
         <titulo>Emmanuel</titulo>
         <artista>Anuel AA</artista>
         <canciones>
-            <cancion duracion="3:46">Asi Soy Yo (ft.Bad Bunny)</cancion>
-            <cancion duracion="3:32">Reggaetonera</cancion>
-            <cancion duracion="3:09">Ferrari (ft.Lil Wayne)</cancion>
-            <cancion duracion="3:52">Jangueo (ft.Tego Calderon)</cancion>
-            <cancion duracion="4:06">Hasta que Dios Diga (ft.Bad Bunny)</cancion>
+            <cancion duracion="3:46">Asi Soy Yo (ft.Bad Bunny) </cancion>
+            <cancion duracion="3:32">Reggaetonera </cancion>
+            <cancion duracion="3:09">Ferrari (ft.Lil Wayne) </cancion>
+            <cancion duracion="3:52">Jangueo (ft.Tego Calderon) </cancion>
+            <cancion duracion="4:06">Hasta que Dios Diga (ft.Bad Bunny) </cancion>
         </canciones>
         <discografica>Sony Music Latin</discografica>
         <anoPublicacion>2020</anoPublicacion>
@@ -103,39 +103,39 @@
         <titulo>Dark Lane Demo Tapes</titulo>
         <artista>Drake</artista>
         <canciones>
-            <cancion duracion="3:09">D4L (ft.Young Thug, Future)</cancion>
-            <cancion duracion="3:41">Chicago Freestyle (ft.Giveon)</cancion>
-            <cancion duracion="3:00">War</cancion>
-            <cancion duracion="4:07">Toosie Slide</cancion>
-            <cancion duracion="3:55">From Florida With Love</cancion>
+            <cancion duracion="3:09">D4L (ft.Young Thug, Future) </cancion>
+            <cancion duracion="3:41">Chicago Freestyle (ft.Giveon) </cancion>
+            <cancion duracion="3:00">War </cancion>
+            <cancion duracion="4:07">Toosie Slide </cancion>
+            <cancion duracion="3:55">From Florida With Love </cancion>
         </canciones>
         <discografica>OVO</discografica>
         <anoPublicacion>2020</anoPublicacion>
     </album>
 
     <album>
-        <titulo>Smoke + Mirrors</titulo>
-        <artista>Imagine Dragons</artista>
+        <titulo>The Marshall Mathers LP</titulo>
+        <artista>Eminem</artista>
         <canciones>
-            <cancion duracion="3:37">Gold</cancion>
-            <cancion duracion="3:22">Friction</cancion>
-            <cancion duracion="3:13">I Bet My Life</cancion>
-            <cancion duracion="3:12">Trouble</cancion>
-            <cancion duracion="3:50">Polaroid</cancion>
+            <cancion duracion="4:45">The Real Slim Shady </cancion>
+            <cancion duracion="6:44">Stan (ft.Dido) </cancion>
+            <cancion duracion="5:22">Under the influence (ft.D12) </cancion>
+            <cancion duracion="3:38">Remember Me? </cancion>
+            <cancion duracion="4:24">Kill You </cancion>
         </canciones>
-        <discografica>Kid Ina Korner</discografica>
-        <anoPublicacion>2015</anoPublicacion>
+        <discografica>Aftermath Entertainment</discografica>
+        <anoPublicacion>2000</anoPublicacion>
     </album>
 
     <album>
         <titulo>Get Rich or Die Tryin'</titulo>
         <artista>50 cent</artista>
         <canciones>
-            <cancion duracion="3:14">In da Club</cancion>
-            <cancion duracion="3:44">21 Questions</cancion>
-            <cancion duracion="4:09">P.I.M.P (ft.Snoop Dogg, G-Unit)</cancion>
-            <cancion duracion="2:59">What Up Gangsta</cancion>
-            <cancion duracion="4:15">Heat</cancion>
+            <cancion duracion="3:14">In da Club </cancion>
+            <cancion duracion="3:44">21 Questions </cancion>
+            <cancion duracion="4:09">P.I.M.P (ft.Snoop Dogg, G-Unit) </cancion>
+            <cancion duracion="2:59">What Up Gangsta </cancion>
+            <cancion duracion="4:15">Heat </cancion>
         </canciones>
         <discografica>Aftermath Entertainment</discografica>
         <anoPublicacion>2003</anoPublicacion>
