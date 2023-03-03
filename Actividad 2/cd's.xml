@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="cd_p1.xsl" type="text/xsl"?>
+<?xml-stylesheet href="cd_p4.xsl" type="text/xsl"?>
 <CDs>
     <album>
         <titulo>The Off-Season</titulo>
         <artista>J. Cole</artista>
         <canciones>
-            <cancion duracion="3:17">9 5.s o u t h </cancion>
+            <cancion duracion="169">9 5.s o u t h </cancion>
             <cancion duracion="2:29">a m a r i </cancion>
             <cancion duracion="3:39">m y.l i f e (ft.21Savage, Morray) </cancion>
             <cancion duracion="2:58">a p p l y i n g.p r e s s </cancion>

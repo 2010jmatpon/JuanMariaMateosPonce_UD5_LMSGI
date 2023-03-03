@@ -14,7 +14,7 @@
                 <th>Sello Discografico</th>
                 <th>Año Publicación</th>
             </tr>
-            <xsl:for-each select="CDs/album">
+            <xsl:for-each select="CDs/album[discografica='Rimas Entertainment']">
                 <tr>
                     <td><xsl:value-of select="titulo"/></td>
                     <td><xsl:value-of select="artista"/></td>
@@ -29,7 +29,7 @@
                     </td>
                     <td>
                         <ul>
-                            <xsl:for-each select="canciones/cancion">
+                            <xsl:for-each select="canciones/cancion[@duracion &lt; 200]">
                                 <li>
                     
                                     <xsl:value-of select="@duracion"/>
